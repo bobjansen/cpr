@@ -1,6 +1,6 @@
 # C++ Requests: Curl for People <img align="right" height="40" src="http://i.imgur.com/d9Xtyts.png">
 
-[![Build Status](https://travis-ci.org/bobjansen/cpr.svg?branch=master)](https://travis-ci.org/bobjansen/cpr) [![Build status](https://ci.appveyor.com/api/projects/status/sac4t8yfnv3i7xej/branch/master?svg=true)](https://ci.appveyor.com/project/whoshuu/cpr/branch/master) [![Documentation](https://img.shields.io/badge/documentation-master-brightgreen.svg)](https://whoshuu.github.io/cpr/)
+[![Build Status](https://travis-ci.org/bobjansen/cpr.svg?branch=master)](https://travis-ci.org/bobjansen/cpr) [![Build status](https://ci.appveyor.com/api/projects/status/sac4t8yfnv3i7xej/branch/master?svg=true)](https://ci.appveyor.com/project/bobjansen/cpr/branch/master) [![Documentation](https://img.shields.io/badge/documentation-master-brightgreen.svg)](https://whoshuu.github.io/cpr/)
 
 C++ Requests is a simple wrapper around [libcurl](http://curl.haxx.se/libcurl) inspired by the excellent [Python Requests](https://github.com/kennethreitz/requests) project.
 
